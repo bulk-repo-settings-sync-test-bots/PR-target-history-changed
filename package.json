@@ -1,6 +1,7 @@
 {
   "private": true,
   "dependencies": {
+    "ignore": "5.1.0",
     "lodash": "4.17.20"
   }
 }
